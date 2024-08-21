@@ -13,9 +13,6 @@ Ben bir yazılım geliştiricisiyim ve çeşitli teknolojilerle çalışıyorum.
 
 ![1000018379](https://github.com/user-attachments/assets/552b7706-21a7-4ff5-9f2f-eaafce063ef2)
 
-![1000012855](https://github.com/user-attachments/assets/f9240f7d-24d9-47ea-bb13-e251905320b7)
-
-
 ## Beni Takip Edin
 
 - [YouTobe](https://youtube.com/@roxsy_ryl?si=4DZ8HjjlxdXFDTD4)
