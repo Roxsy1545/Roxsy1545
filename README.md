@@ -17,7 +17,7 @@ Ben bir yazılım geliştiricisiyim ve çeşitli teknolojilerle çalışıyorum.
 
 - [YouTobe](https://youtube.com/@roxsy_ryl?si=4DZ8HjjlxdXFDTD4)
 - [Discord](https://discord.com/invite/vjk7XAHaQf)
-- [Web Sitem](https://404.page)
+- [Web Sitem](https://roxsy-portfolio.vercel.app/)
 
 ## Katkıda Bulunma
 
